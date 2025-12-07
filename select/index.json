@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "365日の紙飛行機",
+  "base_artist": "AKB48",
+  "createdAt": "2025-12-07T12:17:02.524981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "365日の紙飛行機/山本彩",
+      "artist": "NMB48",
+      "has_synced": true,
+      "path": "select/01_365日の紙飛行機_山本彩_NMB48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "365日の紙飛行機",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/02_365日の紙飛行機_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "365日の紙飛行機",
+      "artist": "山本彩",
+      "has_synced": true,
+      "path": "select/03_365日の紙飛行機_山本彩.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "365日の紙飛行機",
+      "artist": "Toshl",
+      "has_synced": true,
+      "path": "select/04_365日の紙飛行機_Toshl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "365日の紙飛行機",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_365日の紙飛行機_AKB48.txt"
+    }
+  ]
+}
